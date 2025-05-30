@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando bacharelado em ciências da computação no 1° periodo na UDF.
 - 🎓 ex-estudante de técnico em informatica integrado ao ensino medio no IFB.
-- 🌱 Aprendendo mais sobre SQL, MYSQL, PYTHON, DJANGO, data structure, BIBLIOTECAS PYTHON, POWER BI e APIs.
+- 🌱 Aprendendo mais sobre MYSQL, POSTGRESQL, PYTHON, DJANGO, HTML5, CSS3, JS e APIs.
 
 ---
 
