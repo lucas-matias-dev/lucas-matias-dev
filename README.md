@@ -37,6 +37,5 @@
 
 ### Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-lucas-fontoura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lucas-fontoura-b65a1a26)](lucas-fontoura-b65a1a26)
+[![Gmail Badge](https://img.shields.io/badge/lucas.matias.fontoura@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.matias.fontoura@gmail.com)](lucas.matias.fontoura@gmail.com)
